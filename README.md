@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🥑
 
-<!--
-**Lelekusyk/Lelekusyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leticia Pereira Kusyk
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo nas linguagens JavaScript, HTML e CSS
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entar em contato comigo 📧
+
+leticia.kusyk@escola.pr.gov.br
+
+
+![](https://media.tenor.com/SGKP3L2OUoMAAAAC/hello-kitty.gif)
